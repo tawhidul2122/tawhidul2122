@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tawhidul2122/tawhidul2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't want to change the world. I just want to change the way we interact with it and programming is a good way to accomplish it.
+Every day I challenge myself to imagine new possible solutions for real-world problems and create them by writing new lines of code...🙂
 
-Here are some ideas to get you started:
+I am currently pursuing my bachelor's degree from Pabna University Of Science & Technology(PUST).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔭 I’m currently working on Web Development.
+
+🌱 I’m currently learning Javascript.
+
+🤔 I’m looking for help with Django.
