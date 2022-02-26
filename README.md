@@ -5,7 +5,7 @@
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
 - 😄 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐰𝐢𝐭𝐡: MERN
 -->
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tawhidul2122&&show_icons=true&theme=light&count_private=false" alt="towhidul's Github Stats"/>](https://github.com/tawhidul2122)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tawhidul2122&&show_icons=true&theme=light&count_private=true" alt="towhidul's Github Stats"/>](https://github.com/tawhidul2122)
 
 # Hello, I am Towhidul Islam ! Nice to meet you😄
 
