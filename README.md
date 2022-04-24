@@ -27,9 +27,9 @@ I don't want to change the world. I just want to change the way we interact with
 
 ```json
 {
-  "languages": [ "C++","JavaScript","Java" ],
+  "languages": [ "C++","JavaScript","Java,Python" ],
   "frameworks/libraries": {
-    "backend": ["Nodejs",,"Laravel"],
+    "backend": ["Nodejs","Laravel"],
     "frontend": ["React"],
     
   },
@@ -38,9 +38,9 @@ I don't want to change the world. I just want to change the way we interact with
 }
 ```
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidul2122&hide_border=false&theme=tokyonight_duo&background=ffffff" width="55%" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidul2122&hide_border=false&theme=react-dark&background=ffffff" width="55%" />
    
-   <img src="https://activity-graph.herokuapp.com/graph?username=tawhidul2122&theme=tokyonight_duo" width="100%"/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=tawhidul2122&theme=react-dark" width="100%"/>
 
 
 
