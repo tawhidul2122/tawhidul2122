@@ -78,8 +78,6 @@
     
 </div>
 
-# 📶Stat
 
-![](https://stats.justsong.cn/api/github?username=tawhidul2122)
 
 
