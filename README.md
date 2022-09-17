@@ -1,17 +1,8 @@
-
-
-
-
-
-
 # 🚀 about
   
 - 👦 Towhidul Islam
 - ✉ towhidul170132@s.pust.ac.bd
 - 🥰😍 Ce n’est pas la mer à boire
-
-
-
 
 
 # 🛠 Tech Stack
