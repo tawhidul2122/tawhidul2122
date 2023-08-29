@@ -32,9 +32,7 @@
     <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidul2122"/>
 </div>
 
-<div align="center">
-    <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=tawhidul2122&theme=github"/>
-</div>
+
 
 # 📶Stat
 <div align="center">
